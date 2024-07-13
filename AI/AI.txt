@@ -1,0 +1,61 @@
+ARTIFICIAL INTELLIGENCE
+
+What is AI?
+    Definition
+    - Is the simulation of human intelligence processes by machines especially computer systems.
+    - These processes include learning, reasoning and self-correction
+
+    Goals of AI 
+        To create systems that can perform tasks that would normally require human intelligence
+            Visual perception
+            speech recognition
+            decision-making
+            language-translation
+
+        History
+            1950 -> neural Networks, 1960s -> development of algorithms, 1980s-> developed expert systems
+            2000 -> ML & Big Data 
+
+    Types of AI 
+        1. Narrow AI(Weak AI)
+            - AI that is designed and trained for a particular task (e.g voice assistants, recommendation systems)
+        2. General AI(Strong AI)
+            - The AI that has the ability to understand, learn and apply knowledge across a wide range of tasks,
+              similar to human intelligence
+        3. Superintelligence AI:
+            - Its hypothetical AI that surpasses human intelligence and capabilities.
+
+
+        AI vs ML vs DL
+        - AI is a broad field encompassing any technique that enables machines to mimic the HI
+        - ML is a subset of AI that involves use of algorithms to learn and make predictions based on the data 
+        - DL is a subset ML that uses neural Networks with many layers to analyze various factors of data
+
+    AI Subfields
+
+    1. Natural Language Processing(NLP)
+            - techniques for understanding and generating human language
+            - applications: Chatbots, sentiment analysis, language translation, speech recognition 
+
+    2. Computer Vision
+            - technique for enabling machines to interprete and make decisions based on visual data. 
+            applications: image and video recognition, self-driving cars and medical imaging
+
+    3. Robotics
+            - The design and creation of robots that can perform tasks autonomously
+             applications- Manufacturing robots, autonomous drones, household robots
+
+    4. Expert Systems:
+            - Ai systems that emulate the decision-making ability of a human expert.
+            Components of expert systems: knowledge base, inference engine, user interface.
+
+            Applications: Medical diagnosis systems, financial forecasting.
+
+
+AI Applications
+    Predictive Maintenance
+    Anomaly Detection
+    Recommender System 
+    Optimize algorithms 
+
+        

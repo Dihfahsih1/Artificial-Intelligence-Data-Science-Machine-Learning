@@ -1,0 +1,95 @@
+ML: 
+    Sub set of AI that focuses on the development of algorithms and statistical models
+    enabling computers to perform specific tasks without instructions(Human intervention)
+
+    Involves training a model on a data set to make predictions or decisions based on new data
+
+
+Key Concepts ML 
+    - Supervised Learning(SL)
+    - Unsupervised Learning(USL)
+    - Reinforced Learning
+
+1. SL -> Model is trained on a labeled dataset, which means that each training is paired with an output label
+    Types 
+        - Regression SL -> Predicting continuous output(The prices of sugar)
+        - Classification -> Predicting a discrete output(e.g spam detection in emails)
+    Examples 
+        - Linear Regression
+        - Logistics regression
+        - support vector machines(Regressor)
+        - decision trees
+        - random forests 
+        - neural Networks
+
+2. USL ->  The model is trained on data without labeled responses. 
+           The system tries to learn the patterns and the structure from the data
+
+        Types
+            - Clustering: Grouping data points into clusters
+            - Association: Discovering rules that describe large portions of data.
+
+        Examples:
+            - K-means clustering 
+            - Mechanical Clustering 
+            - Principal Component analysis(PCA)
+            - Apriori algorithm
+
+K-means -> algorithm used for clustering, data that has nearest mean
+
+STEPS
+- Initialize centroids(K)
+- Assigning Clusters
+- Update clusters 
+- repeat(2,3)
+
+Advantages
+- Works well with separated data
+- Efficient on large dataset
+- Easy and simple to implement 
+- 
+Disadvantages
+- Requires specifying large clusters
+- It sensitive to the position of data
+- It assumes that your data is similar in size
+
+PCA  -> Is a reduction technique used to reduce the number of features in a dataset
+    - It transforms data into a new coordinated system
+
+STEPS
+- Standardize the data (subtract the mean and divide by std for each feature)
+- Calculate Matrix
+- Compute the values and vectors
+- sort values and vectors
+- project the data
+
+
+
+
+
+
+3. Reinforcement Learning 
+    - Is a type of ML where an agent learns to make decisions by performing actions
+      in an environment with aim of a cummulative reward
+
+    Key concepts in RL 
+    - Agent: Learner or Decision maker
+    - Environment: External system with which the agent interacts with
+    - State: Representation of current situation of the agent
+    - Action: These are possible moves an agent can make
+    - Reward: The feedback from the environment based on the action the agent has taken
+    - Policy(PI): This is the strategy the agent uses or employs to determine
+      the next action based on the current state
+    - Value Function(V): A function that estimates the expected cummulative reward
+      of taking action from a given data
+
+    Types of RL
+    1. Model-free RL 
+    2. Model-Based RL 
+
+    Algorithms Used in RL 
+    - Q-Learning 
+    - Deep Q-Networks(DQN)
+    - Policy Gradient Methods 
+    - Actor-Critic Methods
+

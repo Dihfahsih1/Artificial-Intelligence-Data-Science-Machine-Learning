@@ -1,0 +1,7 @@
+QTN1. What is of Git
+    - Used for keeping track of code changes
+
+QTN2. How to connect a computer to github?
+    -
+    -
+    -

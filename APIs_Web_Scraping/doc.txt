@@ -1,0 +1,27 @@
+API(Application Programming Interface)
+    - Defines set of rules and protocols for building and interacting with software applications
+    - APIs are used for web services, enabling apps to fetch data from external servers
+    - APIs are made up of URLS(Uniform Resource Locators), and also endpoint(functions)
+
+HTTP METHODS used on an API
+    - GET -> Retrieves data from a server 
+    - POST -> Send data to a server to create a new resource
+    - PUT -> Updating an existing resource on a server
+    - DELETE -> Removes an existing resource on a server
+
+SETTING UP PYTHON ENVIRONMENT
+    - Requests Library -> Simplifies making HTTP requests
+    - pip freeze > requirements.txt (generating all libraries installed in a project)
+    - pip install -r requirements.txt
+
+#WEB SCRAPING 
+    - Extracting data from websites
+    Reasons
+    -Data Collection
+    -Data automation
+    Research and monitoring
+
+requirements
+- Beautifulsoup
+- HTML
+- Web page(API/URL)

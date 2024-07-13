@@ -1,0 +1,5 @@
+Append
+  -Adds item the end of the list
+
+Insert
+    - It adds item at a specified index in the list
